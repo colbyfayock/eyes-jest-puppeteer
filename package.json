@@ -1,0 +1,15 @@
+{
+  "name": "eyes-jest-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@applitools/eyes-puppeteer": "^1.4.3",
+    "jest": "^26.6.3",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^8.0.0"
+  }
+}
